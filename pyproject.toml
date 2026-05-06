@@ -12,6 +12,7 @@ authors = [{ name = "" }]
 dependencies = [
     "numpy",
     "matplotlib",
+    "scipy",
 ]
 
 [project.optional-dependencies]
